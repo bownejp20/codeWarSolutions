@@ -1,23 +1,24 @@
-function makesASentence(word) {
-  return word.join(" ")
+function filterOutString(array){
+  return array.filter(num => typeof num === 'number')
 }
-//1
-function smash(word) {
-  return word.join(' ')
+
+//1{}
+function filterList(list){
+  return list.filter(num => typeof num === "number")
 }
 //2
-function smash(word) {
-  return word.join(' ')
+function filterLifst(list){
+  return list.filter(n = > typeof n ==="number")
 }
 //3
-function smash(word) {
-  return word.join(' ')
+function filterLs(list){
+  retirn list.filter(n => typeof n === "number")
 }
 //4
-function smash(word) {
-  return word.join(' ')
+function filterList(list){
+  return list.filter(n => typeof n === "number")
 }
 //5
-function smash(word) {
-  return word.join(' ')
+function filterList(list){
+  return list.filter(n => typeof n === 'number')
 }
