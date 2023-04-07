@@ -1,4 +1,12 @@
-const fruits = ['mango', 'papaya', 'pineapple', 'apple'];
-function fruitSentence(array){
-  return array.forEach(fruit => `I want to eat a ${fruit}`)
+//list of sheep, some missing
+//function counts the sheep present 
+
+function countSheep(array){
+  const newArray = []
+  array.forEach(sheep =>{
+    if('sheep'){
+      
+    }
+  })
+  }
 }
