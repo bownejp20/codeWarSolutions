@@ -1,12 +1,5 @@
-//list of sheep, some missing
-//function counts the sheep present 
-
-function countSheep(array){
-  const newArray = []
-  array.forEach(sheep =>{
-    if('sheep'){
-      
-    }
-  })
-  }
+function isXInside(a, x){
+  return a.includes(x)
 }
+
+console.log(isXInside([7, 9, 'o', true], 10))
