@@ -1,5 +1,5 @@
-function isXInside(a, x){
-  return a.includes(x)
+function reverseNumber(num){
+  console.log(`${num}`.split('').reverse().map(x => +x))
 }
 
-console.log(isXInside([7, 9, 'o', true], 10))
+reverseNumber(35231)
