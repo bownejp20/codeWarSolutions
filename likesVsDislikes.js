@@ -14,3 +14,4 @@ function likeOrDislike(buttons) {
   })
   return emoji
 }
+
